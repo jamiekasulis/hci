@@ -3,3 +3,10 @@ theme: jekyll-theme-slate
 # Set up the URLs
 url: "jamiekasulis.github.io/hci"
 baseurl: "/hci"
+
+# Basic site info
+title: Jamie's HCI Coursework
+description: This is where I keep all my assignments for CSCI 376!
+
+navbar-links:
+  My Repositories: "http://github.com/jamiekasulis" # a test; remove this after and try to replace with other pages
