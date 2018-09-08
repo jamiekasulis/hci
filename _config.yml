@@ -10,3 +10,4 @@ description: This is where I keep all my assignments for CSCI 376!
 
 navbar-links:
   My Repositories: "http://github.com/jamiekasulis" # a test; remove this after and try to replace with other pages
+  Good Design: "good-design.md"
