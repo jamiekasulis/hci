@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+
+# Set up the URLs
+url: "jamiekasulis.github.io/hci"
+baseurl: "/hci"
